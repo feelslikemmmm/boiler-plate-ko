@@ -1,4 +1,4 @@
 # boiler-plate sample
-front: react redux 
-server: express 
+front: react redux <br/>
+server: express <br/>
 DB: mongoDB
